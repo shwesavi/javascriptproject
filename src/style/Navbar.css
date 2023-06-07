@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 45px;
+}
+.others{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.others h4{
+    background-color: black;
+    padding: 10px;
+    color: whitesmoke;
+    border-radius: 100%;
+    font-size: 20px;
+}
+.search input{
+height: 40px;
+width: 450px;
+border-radius: 50px;
+font-size: 15px;
+padding-left: 20px;
+}
+

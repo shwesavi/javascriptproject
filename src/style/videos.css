@@ -1,0 +1,43 @@
+.video img{
+    height: 202px;
+    width: 380px;
+    border-radius: 10px;
+}
+.mapping{
+    display:flex;
+    flex-wrap: wrap;
+}
+.heading{
+    width: 380px;
+}
+.map{
+    width: 25%;
+    margin: 8px 0px;
+}
+.heading h3,p{
+   margin:3px;
+
+}
+.shorts img{
+    height: 304px;
+    width: 172px;
+    border-radius: 10px;
+}
+.shorts{
+    display: flex;
+
+}
+.shortdata h3{
+    width:172px;
+}
+.shortdata{
+    margin:8px;
+}
+.short h3,p{
+    margin: 3px;
+}
+.heading p ,.heading a{
+    color: blueviolet;
+    margin: 0px;
+    cursor: pointer;
+}
