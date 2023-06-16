@@ -6,7 +6,7 @@ const  Category= () => {
         {link:"Disney"},
         {link:"Cartoon"},
         {link:"Web Series"},
-        {link:"Comedyl"},
+        {link:"Comedy"},
         {link:"Horror"},
         {link:"News"},
         {link:"Cooking"},

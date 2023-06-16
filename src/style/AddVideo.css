@@ -1,0 +1,39 @@
+.form input{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+    width:300px ;
+    padding: 5px 0px;
+    justify-content: center;
+    background-color:blanchedalmond;
+
+}
+ .label label{
+    font-size: 20px;
+    padding-top: 50px;
+}
+.form button{
+    width: 300px;
+    height: 30px;
+    color: black;
+    background-color: red;
+    border-radius: 50px;
+    margin: 10px 0px;
+}
+.image img{
+    height: 700px;
+    width: 500px;
+    margin-right: 30px;
+}
+.forms{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:blanchedalmond;
+    border: 5px solid black;
+    height: 100vh;
+    background-size: cover;
+}
+.form{
+    margin: 10px 0px;
+}
